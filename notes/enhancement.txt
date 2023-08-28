@@ -1,0 +1,15 @@
+New enhancement:
+
+1. Excel File and sheet read dynamically (modify CapcoDriver.java file)
+2. script run on different environments like QA, CERT, SIT ect...
+3. login data read from config.properties file
+4. add allure report 
+5. provide flexibility to run the user function in between excel file
+6. how to manage return function / data
+==================
+08/08/2023
+===============
+1.Comparison of the values from the webpage with database
+2.Comparison of values provided by the user as part of the scenarios.
+
+
